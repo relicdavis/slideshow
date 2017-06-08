@@ -1,0 +1,28 @@
+{
+	"readSettingsFromUrl": true,
+	"settingsReloadIntervalMinutes": 1,
+	"fullscreen": false,
+	"autoStart": false,
+	"websites" : [
+		{
+			"url" : "https://msit.powerbi.com/groups/0c31a9c0-bcd9-4740-8e8e-897c5a82b341/reports/b731c30c-977e-4ad3-9e6e-166faff573f9/ReportSection3",
+			"duration" : 10,
+			"tabReloadIntervalSeconds": 15
+		},
+		{
+			"url" : "https://msit.powerbi.com/groups/0c31a9c0-bcd9-4740-8e8e-897c5a82b341/dashboards/8c8906fc-3d39-4800-8691-85a8a0d423ea",
+			"duration" : 10,
+			"tabReloadIntervalSeconds": 300
+		},
+		{
+			"url" : "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+			"duration" : 10,
+			"tabReloadIntervalSeconds": 15
+		},
+		{
+			"url" : "https://ie.linkedin.com/in/kevinsheedy",
+			"duration" : 10,
+			"tabReloadIntervalSeconds": 15
+		}
+	]
+}
